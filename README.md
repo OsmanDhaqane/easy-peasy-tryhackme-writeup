@@ -27,7 +27,7 @@ After discovering credentials through hash cracking and steganography, SSH acces
 
 ## Writeup
 
-./easy-peasy-tryhackme-writeup.pdf
+[easy-peasy-tryhackme-writeup.pdf](./easy-peasy-tryhackme-writeup.pdf)
 
 ## Note
 
